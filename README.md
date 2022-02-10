@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ReeganMitchell
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I’m Reegan Mitchell
+
+## About Me:
+
+- Student at Newcastle University in final year of MCOMP Computer Science with Games development.
+- Simracer, currently driving for Zansho Simsport.
 
 <!---
 ReeganMitchell/ReeganMitchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
