@@ -2,7 +2,7 @@
 
 ## About Me:
 
-- Student at Newcastle University in final year of MCOMP Computer Science with Games development.
+- Recent Graduate at Newcastle University with a 2:1 in MCOMP Computer Science with Games development.
 - Simracer, currently driving for Zansho Simsport.
 
 <!---
