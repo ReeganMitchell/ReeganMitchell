@@ -3,7 +3,7 @@
 ## About Me:
 
 - Recent Graduate at Newcastle University with a 2:1 Master of Computer Science, specialising in Games development.
-- Simracer, currently driving for Zansho Simsport.
+- Simracer, currently driving for Zansho Esports Group.
 
 <!---
 ReeganMitchell/ReeganMitchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
