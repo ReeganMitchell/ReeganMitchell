@@ -2,7 +2,7 @@
 
 ## About Me:
 
-- Recent Graduate at Newcastle University with a 2:1 Master of Computer Science, specialising in Games development.
+- Graduate at Newcastle University with a 2:1 Master of Computer Science, specialising in Games development.
 - Simracer, currently driving for Zansho Esports Group.
 
 <!---
